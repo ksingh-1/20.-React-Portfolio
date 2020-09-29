@@ -33,7 +33,8 @@ function Cards() {
               src='images/WeatherApp.PNG'
               text='Weather App uses the OpenWeather API to retrieve weather data for cities. Persistent cities searched will be saved in Local Storage.'
               label='Homework'
-              path='/services'
+              path='https://github.com/ksingh-1/06-Weather-Dashboard'
+              a href='https://github.com/ksingh-1/06-Weather-Dashboard'
             />
             <CardItem
               src='images/TeamProfile.PNG'
