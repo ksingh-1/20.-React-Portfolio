@@ -12,7 +12,7 @@
 
 ## Title
 20. My React Portfolio - Deployed Heroku: https://glacial-sea-45527.herokuapp.com/
-![Screenshot](https://github.com/ksingh-1/20.-React-Portfolio/blob/master/public/images/ScreenShot.JPG)
+![Screenshot](https://github.com/ksingh-1/20.-React-Portfolio/blob/master/public/images/ScreenShot1.JPG)
 
 ## Description
 I want to be able to view create and track my progress on my work. 
