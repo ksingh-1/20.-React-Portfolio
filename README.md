@@ -11,13 +11,13 @@
 </p>
 
 ## Title
-17. Workout/Fitness Tracker App - Deployed Heroku: https://glacial-sea-45527.herokuapp.com/
-![Screenshot](https://github.com/ksingh-1/20.-React-Portfolio/blob/master/images/FTfront.JPG)
+20. My React Portfolio - Deployed Heroku: https://glacial-sea-45527.herokuapp.com/
+![Screenshot](https://github.com/ksingh-1/20.-React-Portfolio/blob/master/public/images/ScreenShot.JPG)
 
 ## Description
-I want to be able to view create and track daily workouts and log multiple exercises in a workout on a given day. 
-I should also be able to track the name, type, weight, sets, reps, and duration of exercise. 
-If the exercise is a cardio exercise, I should be able to track my distance traveled.
+I want to be able to view create and track my progress on my work. 
+I would like to show my future employer my dedication to becoming a better coder/programmer. 
+If You Have Any Questions, Feel Free To Contact Me!
 
 ## Table of Contents
 * *[Title](#title)*
@@ -66,4 +66,4 @@ kulpreet.s18@gmail.com
 If you have any questions about the repo contact me on GitHub at (https://github.com/ksingh-1)
 or reach me directly at <kulpreet.s18@gmail.com>.
 
-<!-- ![final-screen](https://github.com/ksingh-1/17.-Fitness-Tracker/blob/master/images/WorkoutDashboard.JPG) -->
+![final-screen](https://github.com/ksingh-1/20.-React-Portfolio/blob/master/public/images/Screenshot2.JPG)
