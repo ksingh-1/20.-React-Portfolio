@@ -29,7 +29,7 @@ function Navbar() {
       <nav className='navbar'>
         <div className='navbar-container'>
           <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
-            My Portfolio
+            Kulpreet Singh
             <i class= 'far fa-handshake' />
           </Link>
           <div className='menu-icon' onClick={handleClick}>
@@ -47,7 +47,7 @@ function Navbar() {
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                Services
+                Resume 
               </Link>
             </li>
             <li className='nav-item'>
