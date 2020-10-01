@@ -30,17 +30,17 @@ function Footer() {
           <div class='footer-link-items'>
             <h2>About Me</h2>
             <Link to='/sign-up'>How it works</Link>
-            <Link to='/'>Testimonials</Link>
-            <Link to='/'>Careers</Link>
+            {/* <Link to='/'>Testimonials - Coming Soon</Link> */}
+            <Link to='/'>Careers - Coming Soon</Link>
             {/* <Link to='/'>Investors</Link> */}
             <Link to='/'>Terms of Service</Link>
           </div>
           <div class='footer-link-items'>
             <h2>Contact ME</h2>
             <Link to='/'>Contact</Link>
-            <Link to='/'>Support</Link>
-            <Link to='/'>Destinations</Link>
-            <Link to='/'>Sponsorships</Link>
+            {/* <Link to='/'>Support</Link> */}
+            {/* <Link to='/'>Destinations</Link>
+            <Link to='/'>Sponsorships</Link> */}
           </div>
         </div>
         {/* <div className='footer-link-wrapper'>
@@ -64,20 +64,21 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-              Kulpreet |
+              Kulpreet Singh |
               <i class="far fa-handshake"></i>
             </Link>
           </div>
           <small class='website-rights'>Thank You!</small>
           <div class='social-icons'>
-            <Link
+            <a
               class='social-icon-link github'
-              to='/'
+              href='https://github.com/ksingh-1'
               target='_blank'
+              rel="noopener"
               aria-label='Github' //facebook
             >
               <i class="fab fa-github"></i>
-            </Link>
+            </a>
             {/* <Link
               class='social-icon-link instagram'
               to='/'
@@ -102,14 +103,15 @@ function Footer() {
             >
               <i class='fab fa-twitter' />
             </Link> */}
-            <Link
+            <a
               class='social-icon-link linkedin'
-              to='https://www.linkedin.com/in/ksingh94/'
+              href='https://www.linkedin.com/in/ksingh94/'
               target='_blank'
+              rel="noopener"
               aria-label='LinkedIn'
             >
               <i class='fab fa-linkedin' />
-            </Link>
+            </a>
           </div>
         </div>
       </section>

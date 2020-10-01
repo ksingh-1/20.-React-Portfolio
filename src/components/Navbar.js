@@ -43,20 +43,20 @@ function Navbar() {
             </li>
             <li className='nav-item'>
               <Link
-                to='/services'
+                to='/aboutme'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                Resume 
+                About Me
               </Link>
             </li>
             <li className='nav-item'>
               <Link
-                to='/products'
+                to='/resume'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                Products
+                Resume
               </Link>
             </li>
 

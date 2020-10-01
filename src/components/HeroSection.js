@@ -10,15 +10,16 @@ function HeroSection() {
       <h1>KULPREET SINGH</h1>
       <p>Web Developer|Coder|Software Engineer</p>
       <div className='hero-btns'>
-        <Button
+        {/* <Button
           className='btns'
           buttonStyle='btn--outline'
           buttonSize='btn--large'
           target='_blank'
           a href='https://github.com/ksingh-1'
+          rel="noopener"
         >
           Link To GitHub Repo
-        </Button>
+        </Button> */}
         {/* <Button
           className='btns'
           buttonStyle='btn--primary'

@@ -12,19 +12,21 @@ function Cards() {
             <CardItem
               src='images/Project1BNG.JPG'
               text='Bubs & Grubs is a one stop shop for mixing up the boring quarantine meal and drink routine.'
-              label='Project 1'
-              path='/services'
+              label='Team Project 1'
+              a href='https://rgarza28.github.io/bng/'
+              target='_blank'
+              rel='noopener'
             />
             <CardItem
               src='images/Project2Druid.JPG'
               text='DRUID allows restaurant owners to sign-up to add & remove items from the menu.'
-              label='Project 2'
+              label='Team Project 2'
               path='/services'
             />
             <CardItem
               src='images/Project3SMU.JPG'
               text='Student Management Utility is a user friendly site where one can apply to jobs and look for networking events.'
-              label='Project 3'
+              label='Team Project 3'
               path='/services'
             />
           </ul>
@@ -40,7 +42,7 @@ function Cards() {
               src='images/TeamProfile.PNG'
               text='Team Profile Generator will prompt the user for information about the team manager, team members and generate a Team Profile Page.'
               label='Homework'
-              path='/products'
+              path='/resume'
             />
             <CardItem
               src='images/NoteTakerMainPage.PNG'
@@ -60,7 +62,7 @@ function Cards() {
               src='images/Day Planner App.gif'
               text='Day Planner App is a calendar application that allows the user to save events for each hour of the day.'
               label='Homework'
-              path='/products'
+              path='/resume'
             />
             <CardItem
               src='images/BudgetTracker.jpg'
