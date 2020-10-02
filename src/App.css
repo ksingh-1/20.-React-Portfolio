@@ -54,8 +54,8 @@
 
 .clearfix::after {
   content: "";
-  clear: both;
-  display: table;
+  clear: none;
+  /* display: table; */
 }
 
 #main-resume {
@@ -70,4 +70,14 @@
   font-family: "Bree Serif";
   color: #5a7573;
   /* height: 100%; */
+}
+
+#main-info {
+  position: relative;
+  background-color: rgba(247, 175, 175, 0.24);
+  border: 2px solid rgb(220, 220, 220);
+  margin: 2% 3%;
+  padding: 2%;
+  display: block;
+  /* background-image: url('../../img-5.jpg'); */
 }
