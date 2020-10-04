@@ -5,7 +5,8 @@ import Home from './components/pages/Home';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Aboutme from './components/pages/Aboutme';
 import Resume from './components/pages/Resume';
-import SignUp from './components/pages/SignUp';
+import Footer from './components/Footer';
+import Email from './components/pages/Email';
 
 function App() {
   return (
@@ -16,10 +17,12 @@ function App() {
           <Route path='/' exact component={Home} />
           <Route path='/aboutme' component={Aboutme} />
           <Route path='/resume' component={Resume} />
-          <Route path='/sign-up' component={SignUp} />
+          {/* <Route path='/email' component={Email} /> */}
         </Switch>
+        <Footer />
       </Router>
     </>
+    
   );
 }
 

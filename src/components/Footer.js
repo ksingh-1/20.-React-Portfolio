@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 function Footer() {
   return (
     <div className='footer-container'>
-      <section className='footer-subscription'>
+      {/* <section className='footer-subscription'>
         <p className='footer-subscription-heading'>
           Drop Me Your Email Below!
         </p>
@@ -24,22 +24,22 @@ function Footer() {
             <Button buttonStyle='btn--outline'>SEND</Button>
           </form>
         </div>
-      </section>
+      </section> */}
       <div class='footer-links'>
         <div className='footer-link-wrapper'>
-          <div class='footer-link-items'>
+          {/* <div class='footer-link-items'>
             <h2>About Me</h2>
             <Link to='/sign-up'>How it works</Link>
-            {/* <Link to='/'>Testimonials - Coming Soon</Link> */}
+            <Link to='/'>Testimonials - Coming Soon</Link>
             <Link to='/'>Careers - Coming Soon</Link>
-            {/* <Link to='/'>Investors</Link> */}
+            <Link to='/'>Investors</Link>
             <Link to='/'>Terms of Service</Link>
-          </div>
+          </div> */}
           <div class='footer-link-items'>
-            <h2>Contact ME</h2>
-            <Link to='/'>Contact</Link>
-            {/* <Link to='/'>Support</Link> */}
-            {/* <Link to='/'>Destinations</Link>
+            <h2>Check Out My Links Below!</h2>
+            <Link to='/'>Github & LinkedIn</Link>
+            {/* <Link to='/'>Support</Link>
+            <Link to='/'>Destinations</Link>
             <Link to='/'>Sponsorships</Link> */}
           </div>
         </div>
