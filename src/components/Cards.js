@@ -56,7 +56,11 @@ function Cards() {
               src='images/FitnessTracker.jpg'
               text='Fitness Tracking App that will help people reach their fitness goals quicker and track workout progress'
               label='Homework'
-              path='/services'
+              // path='/services'
+              Route path='/privacy-policy' component={() => { 
+                window.location.href = 'github.com'; 
+                return null;
+           }}
             />
             <CardItem
               src='images/Day Planner App.gif'

@@ -6,11 +6,11 @@ export default function AboutMe() {
     <section id="main-info" className="clearfix">
     <h1 className='aboutme'>
       <p>About Me </p>
-      </h1>
+    </h1>
       {/* <img id="profilePic" rel="profilePic" */}
-      <div> 
+      <div className="aboutM"> 
         <p>
-          Hello TEST
+          Hello I'm Kulpreet
         </p>
         <br />
         <p id="itemsAM">About Me:</p>
