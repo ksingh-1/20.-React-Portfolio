@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 
 function CardItem(props) {
   return (
@@ -22,7 +22,7 @@ function CardItem(props) {
             class='social-icon-link-github'
             href={props.href}
             target='_blank'
-            rel="noopener"
+            rel="noopener noreferrer"
             aria-label='Github'
             >
           <i class='fab fa-github fa-2x'  />
@@ -31,7 +31,7 @@ function CardItem(props) {
             class='social-icon-link-deploy'
             href={props.web}
             target='_blank'
-            rel="noopener"
+            rel="noopener noreferrer"
             aria-label='Deployed'
             >
           <i class='fas fa-laptop-code fa-2x center'  />

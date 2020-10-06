@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Aboutme from './components/pages/Aboutme';
 import Resume from './components/pages/Resume';
 import Footer from './components/Footer';
-import Email from './components/pages/Email';
+// import Email from './components/pages/Email';
 
 function App() {
   return (

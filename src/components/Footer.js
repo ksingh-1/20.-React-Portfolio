@@ -1,6 +1,6 @@
 import React from 'react';
 import './Footer.css';
-import { Button } from './Button';
+// import { Button } from './Button';
 import { Link } from 'react-router-dom';
 
 function Footer() {
@@ -74,7 +74,7 @@ function Footer() {
               class='social-icon-link github'
               href='https://github.com/ksingh-1'
               target='_blank'
-              rel="noopener"
+              rel="noopener noreferrer"
               aria-label='Github' //facebook
             >
               <i class="fab fa-github"></i>
@@ -107,7 +107,7 @@ function Footer() {
               class='social-icon-link linkedin'
               href='https://www.linkedin.com/in/ksingh94/'
               target='_blank'
-              rel="noopener"
+              rel="noopener noreferrer"
               aria-label='LinkedIn'
             >
               <i class='fab fa-linkedin' />
