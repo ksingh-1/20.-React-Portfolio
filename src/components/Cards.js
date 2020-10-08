@@ -70,6 +70,7 @@ function Cards() {
             <CardItem
               src='images/FitnessTracker.jpg'
               text='Fitness Tracking App That Will Help People Reach Mheir Fitness Goals Quicker And Track Workout Progress. This App Uses MongoDB To Store Data.'
+              label='Homework'
               href='https://github.com/ksingh-1/17.-Fitness-Tracker'
               web='https://limitless-lake-38302.herokuapp.com/'
               target='_blank'
