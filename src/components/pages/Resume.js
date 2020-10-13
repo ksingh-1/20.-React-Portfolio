@@ -1,6 +1,6 @@
 import React from 'react';
 import '../../App.css';
-import resume1 from '../../images/KSinghR1.pdf';
+import resume1 from '../../images/ksinghResume.Updated.pdf';
 
 
 function Resume() {
@@ -11,7 +11,7 @@ function Resume() {
         </h1>
         <div className="rBox">
         <a href={resume1} target='_blank' rel='noopener noreferrer'>
-					resume!
+					Please Click Here To Access My Resume!
 				</a>{' '}
         </div>
     </section>
