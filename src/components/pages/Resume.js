@@ -9,7 +9,7 @@ function Resume() {
         <p>Resume</p>
         </h1>
         <div className="rBox">
-          <iframe title="KSingh Resume" className="cv" src="images/ksinghResume.updated.pdf"></iframe>
+          <xframe title="KSingh Resume" className="cv" src="images/ksinghResume.updated.pdf"></xframe>
         </div>
     </section>
   )}
