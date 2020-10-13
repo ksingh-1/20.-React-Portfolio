@@ -1,5 +1,6 @@
 import React from 'react';
 import '../../App.css';
+import resume1 from '../../images/KSinghR1.pdf';
 
 
 function Resume() {
@@ -9,7 +10,9 @@ function Resume() {
         <p>Resume</p>
         </h1>
         <div className="rBox">
-          <xframe title="KSingh Resume" className="cv" src="images/ksinghResume.updated.pdf"></xframe>
+        <a href={resume1} target='_blank' rel='noopener noreferrer'>
+					resume!
+				</a>{' '}
         </div>
     </section>
   )}
