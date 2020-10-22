@@ -37,7 +37,7 @@ function Footer() {
           </div> */}
           <div class='footer-link-items'>
             <h2>Check Out My Links Below!</h2>
-            <Link to='/'>Github & LinkedIn</Link>
+            <Link to='/'>kulpreet.s18@gmail.com</Link>
             {/* <Link to='/'>Support</Link>
             <Link to='/'>Destinations</Link>
             <Link to='/'>Sponsorships</Link> */}
