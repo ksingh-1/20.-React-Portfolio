@@ -20,7 +20,7 @@ function Cards() {
             />
             <CardItem
               src='images/Project2Druid.JPG'
-              text='DRUID (Develop/Restaurant User Interface/Design) Allows restaurant owners/workers to sign-up, sign-in add & remove items from the menu.'
+              text='DRUID (Develop/Restaurant User Interface/Design) allows restaurant owners/workers to sign-up, sign-in, add & remove items from the menu.'
               label='Team Project 2'
               href='https://github.com/KenanDeari/Digital-Menu-Project'
               web='https://mighty-gorge-52471.herokuapp.com/'
@@ -40,7 +40,7 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='images/WeatherApp.PNG'
-              text='Weather Dashboard Application uses OpenWeather API to retrieve weather data for various cities inputted by the user. Favorite cities searched will be saved in local storage on the left.'
+              text='Weather Dashboard Application uses OpenWeather API to retrieve weather data for various cities inputted by the user. Favorite searched cities will be saved in local storage on the left.'
               label='Homework'
               href='https://github.com/ksingh-1/06-Weather-Dashboard'
               web='https://ksingh-1.github.io/06-Weather-Dashboard/'
@@ -49,7 +49,7 @@ function Cards() {
             />
             <CardItem
               src='images/TeamProfile.PNG'
-              text='Team Profile Generator Application prompts the iser for information about the Team Manager and Team Members to generate a aeam profile page from the command line. -No Website Deployment-'
+              text='Team Profile Generator Application prompts the user for information about the Team Manager and Team Members to generate a team profile page from the command line. -No Website Deployment-'
               label='Homework'
               href='https://github.com/ksingh-1/10.Team-Profile-Generator'
               web=''
