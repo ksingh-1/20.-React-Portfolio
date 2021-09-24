@@ -7,7 +7,7 @@ function Resume() {
   return (
     <section id="main-resume" className="clearfix">
       <h1 className='resume'>
-        <p>Resume</p>
+        <p>RESUME</p>
         </h1>
         <div className="rBox">
         <a href={resume1} target='_blank' rel='noopener noreferrer'>
