@@ -102,7 +102,7 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='images/HSVUTE2.jpg'
-              text='wORK IN PROGRESS!'
+              text='WORK IN PROGRESS!'
               label='Coming Soon'
               href=''
               web=''
@@ -111,7 +111,7 @@ function Cards() {
             />
             <CardItem
               src='images/HSVUTE2.jpg'
-              text='wORK IN PROGRESS!'
+              text='WORK IN PROGRESS!'
               label='Coming Soon'
               href=''
               web=''
@@ -120,7 +120,7 @@ function Cards() {
             />
             <CardItem
               src='images/HSVUTE2.jpg'
-              text='wORK IN PROGRESS!'
+              text='WORK IN PROGRESS!'
               label='Coming Soon'
               href=''
               web=''
