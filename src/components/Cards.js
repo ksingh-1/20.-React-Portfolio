@@ -99,6 +99,35 @@ function Cards() {
               rel='noopener'
             />
           </ul>
+          <ul className='cards__items'>
+            <CardItem
+              src='images/HSVUTE2.jpg'
+              text='wORK IN PROGRESS!'
+              label='Coming Soon'
+              href=''
+              web=''
+              target='_blank'
+              rel='noopener'
+            />
+            <CardItem
+              src='images/HSVUTE2.jpg'
+              text='wORK IN PROGRESS!'
+              label='Coming Soon'
+              href=''
+              web=''
+              target='_blank'
+              rel='noopener'
+            />
+            <CardItem
+              src='images/HSVUTE2.jpg'
+              text='wORK IN PROGRESS!'
+              label='Coming Soon'
+              href=''
+              web=''
+              target='_blank'
+              rel='noopener'
+            />
+          </ul>
         </div>
       </div>
     </div>
