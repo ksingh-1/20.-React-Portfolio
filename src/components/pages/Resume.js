@@ -1,6 +1,6 @@
 import React from 'react';
 import '../../App.css';
-import resume1 from '../../images/ksinghResume.Updated.pdf';
+import resume1 from '../../images/KulpreetSingh.Resume.pdf';
 
 
 function Resume() {
